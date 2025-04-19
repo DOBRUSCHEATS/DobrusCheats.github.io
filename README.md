@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>You got scamed</title>
+  <title>You got scamed and I'm going to touch you :3</title>
   <style>
     body {
       margin: 0;
